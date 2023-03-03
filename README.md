@@ -9,7 +9,7 @@ I am a junior Computer Science Student from Egypt 🇪🇬. Enthusiastic about f
  
 **You can find me here:**  
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|<a href="www.linkedin.com/in/michel-magdy"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>|
+|<a href="https://www.linkedin.com/in/michel-magdy"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>|
   
 
 <br>**Visitors Count**  
