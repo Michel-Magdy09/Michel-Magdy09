@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Hello World! 🌍👋 </b></h1>
 
 <p align="center">
-I am a junior Computer Science Student from Egypt 🇪🇬. Enthusiastic about flutter and Development, having a dream to Follow 📈
+I am a junior Computer Science Student. Enthusiastic about flutter and Development, having a dream to Follow 📈
 </p>
 
 - 📫 How to reach me: michel.28.helmy.9@gmail.com
