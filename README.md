@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+<h1 align= "center"><b>Hello World! 🌍:</b></h1>
 
 <p align="center">
 I am a junior Computer Science Student from Egypt 🇪🇬. Enthusiastic about flutter and Development, having a dream to Follow 📈
