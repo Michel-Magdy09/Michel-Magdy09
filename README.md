@@ -1,25 +1,25 @@
-<h1 align="center">Hello World 👋🏻🌎</h1>
+<h1 align="center">Hello World!!👋🏻🌎</h1>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/michel-magdy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="michel.28.helmy.9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<h2 align="center">About me</h2>
+
+###
+
+
+<p align="center">My name is Michel Magdy and I'm a Mobile developer from Cairo, 🇪🇬.</p>
+
+###
+
+<p align="center">My goal is to be a Full-Stack Mobile Developer.</p>
+
+###
+
+<h2 align="center">I Code With</h2>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Michel-Magdy09/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -33,14 +33,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
+###
+
+<h2 align="center">Contact Me via</h2>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/michel-magdy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="michel.28.helmy.9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="45" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Michel-Magdy09.Michel-Magdy09&"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Michel-Magdy09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
